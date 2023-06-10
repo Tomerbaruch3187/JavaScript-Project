@@ -747,11 +747,13 @@ textarea.input-field {
  * responsive for large than 575px screen
  */
 
+
 @media (min-width: 575px) {
 
   /**
    * REUSED STYLE
    */
+
 
   .container {
     max-width: 540px;
@@ -794,6 +796,7 @@ textarea.input-field {
   /**
    * REUSED STYLE
    */
+
 
   .container {
     max-width: 720px;
