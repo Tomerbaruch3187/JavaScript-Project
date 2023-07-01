@@ -16,6 +16,7 @@ figure img {
 
 
 
+
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -566,6 +567,7 @@ body.nav-active {
 .project {
   border-block: 1px solid var(--cadet-blue-crayola_a20);
 }
+
 
 #project3 {
   width: 100px;
