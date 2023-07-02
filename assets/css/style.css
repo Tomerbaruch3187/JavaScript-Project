@@ -17,6 +17,10 @@ figure img {
 
 
 
+
+
+
+
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -611,6 +615,8 @@ body.nav-active {
 
 .project-card-1,
 .project-card-2,
+.project-card-5,
+.project-card-6,
 :is(.project-card-3, .project-card-4) .card-content {
   padding: var(--padding);
 }
