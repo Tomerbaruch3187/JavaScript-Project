@@ -16,7 +16,7 @@
 
  <!-- project N.5 || NOTE APP - דף משימות-->
 
- <!-- project N.6 || GALLERY - גלריית תמונות-->
+ project N.6 || GALLERY - גלריית תמונות
 
 
  
