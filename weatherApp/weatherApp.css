@@ -138,6 +138,8 @@ project3Image {}
 
     .button {
         margin-top: 10px;
+        display: flex;
+        flex-direction: column;
     }
 
     .project-pic {
