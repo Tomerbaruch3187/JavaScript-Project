@@ -1041,7 +1041,7 @@ textarea.input-field {
   margin: 20vh auto 0 auto;
   padding: 20px;
   background-color: whitesmoke;
-  border-radius: 4px;
+  border-radius: 20px;
   font-size: 12px;
   direction: rtl; 
 }
@@ -1056,7 +1056,7 @@ textarea.input-field {
   margin-top: 10px;
   width: 100%;
   color: white;
-  background-color: rgb(41, 57, 194);
+  background-color: rgba(107, 41, 194, 0.877);
   border: none;
   border-radius: 4px;
 }
